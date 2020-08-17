@@ -1,0 +1,17 @@
+{
+  "name": "check_mongoose",
+  "version": "1.0.0",
+  "description": "check point of mongoose",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mohamed Amine Ben Ammar",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "mongodb": "^3.6.0",
+    "mongoose": "^5.10.0",
+    "validator": "^13.1.1"
+  }
+}
